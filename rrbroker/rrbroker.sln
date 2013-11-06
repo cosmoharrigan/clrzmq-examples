@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rrclient", "rrclient\rrclient.csproj", "{939B1752-2327-4472-92FA-B62724C7095A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rrworker", "rrworker\rrworker.csproj", "{AF15CEE4-D0F2-4C78-B1AD-0B6948148FF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rrbroker", "rrbroker\rrbroker.csproj", "{22F67181-35CD-4336-A2D3-C2D3B3107807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939B1752-2327-4472-92FA-B62724C7095A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939B1752-2327-4472-92FA-B62724C7095A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939B1752-2327-4472-92FA-B62724C7095A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939B1752-2327-4472-92FA-B62724C7095A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF15CEE4-D0F2-4C78-B1AD-0B6948148FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF15CEE4-D0F2-4C78-B1AD-0B6948148FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF15CEE4-D0F2-4C78-B1AD-0B6948148FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF15CEE4-D0F2-4C78-B1AD-0B6948148FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F67181-35CD-4336-A2D3-C2D3B3107807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F67181-35CD-4336-A2D3-C2D3B3107807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F67181-35CD-4336-A2D3-C2D3B3107807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F67181-35CD-4336-A2D3-C2D3B3107807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
